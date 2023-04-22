@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/osdhack23/static/css/main.4be929a6.css",
+    "main.js": "/osdhack23/static/js/main.8d602ebe.js",
+    "static/js/787.cdd6f4f2.chunk.js": "/osdhack23/static/js/787.cdd6f4f2.chunk.js",
+    "static/media/img2.webp": "/osdhack23/static/media/img2.7fc7dd9f61873eb6a944.webp",
+    "static/media/img3.webp": "/osdhack23/static/media/img3.a6b9ec1d818508d61901.webp",
+    "index.html": "/osdhack23/index.html",
+    "main.4be929a6.css.map": "/osdhack23/static/css/main.4be929a6.css.map",
+    "main.8d602ebe.js.map": "/osdhack23/static/js/main.8d602ebe.js.map",
+    "787.cdd6f4f2.chunk.js.map": "/osdhack23/static/js/787.cdd6f4f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be929a6.css",
+    "static/js/main.8d602ebe.js"
+  ]
+}
